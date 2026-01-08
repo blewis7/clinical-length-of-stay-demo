@@ -21,19 +21,19 @@ The project emphasizes:
 
 ## Project Structure
 
-clinical-length-of-stay-demo/
-│
-├── data/
-│ ├── hospital_length_of_stay_raw.csv
-│ └── hospital_length_of_stay_clean.csv
-│
-├── notebooks/
-│ ├── 01_exploration_and_cleaning.ipynb
-│ ├── 02_linear_regression_baseline.ipynb
-│ └── 03_ridge_and_tree_models.ipynb
-│
-├── requirements.txt
-├── .gitignore
+clinical-length-of-stay-demo/  
+│  
+├── data/  
+│ ├── hospital_length_of_stay_raw.csv  
+│ └── hospital_length_of_stay_clean.csv  
+│  
+├── notebooks/  
+│ ├── 01_exploration_and_cleaning.ipynb  
+│ ├── 02_linear_regression_baseline.ipynb  
+│ └── 03_ridge_and_tree_models.ipynb  
+│  
+├── requirements.txt  
+├── .gitignore  
 └── README.md
 
 ---
