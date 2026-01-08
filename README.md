@@ -155,11 +155,11 @@ This highlights the importance of:
 
 ### Setup
 
-git clone https://github.com/blewis7/clinical-length-of-stay-demo.git
-cd clinical-length-of-stay-demo
-python -m venv venv
-venv\Scripts\activate (for Windows)
-source venv/bin/activate (for macOS / Linux)
+git clone https://github.com/blewis7/clinical-length-of-stay-demo.git  
+cd clinical-length-of-stay-demo  
+python -m venv venv  
+venv\Scripts\activate (for Windows)  
+source venv/bin/activate (for macOS / Linux)  
 pip install -r requirements.txt
 
 ### Run Notebooks in Order
@@ -168,7 +168,7 @@ Open Jupyter Lab or VS Code and run:
 
 1. 01_exploration_and_cleaning.ipynb
 2. 02_linear_regression_baseline.ipynb
-3. 03_ridge_and_tree_models.ipynb
+3. 03_ridge_and_tree_models.ipynb  
    Each notebook is self-contained and builds logically on the previous phase.
 
 ---
