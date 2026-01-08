@@ -168,8 +168,9 @@ Open Jupyter Lab or VS Code and run:
 
 1. 01_exploration_and_cleaning.ipynb
 2. 02_linear_regression_baseline.ipynb
-3. 03_ridge_and_tree_models.ipynb  
-   Each notebook is self-contained and builds logically on the previous phase.
+3. 03_ridge_and_tree_models.ipynb
+
+Each notebook is self-contained and builds logically on the previous phase.
 
 ---
 
